@@ -41,10 +41,10 @@ comments:
     theme                : # "github-light" (default), "github-dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master"
   commitMessage          : # "New comment by {fields.name}"
   filename               : # comment-{@timestamp}
-  format                 : # "yml"
+  format                 : "yml"
   moderation             : # true
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
