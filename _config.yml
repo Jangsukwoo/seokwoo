@@ -22,7 +22,7 @@ name                     : "Your Name"
 description              : "Good end"
 url                      : "https://Jangsukwoo.github.io"
 baseurl                  : "public"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Jangsukwoo/public"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
