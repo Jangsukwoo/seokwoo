@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "Good end"
 url                      : "https://Jangsukwoo.github.io"
-baseurl                  : "Jangsukwoo.github.io"
+baseurl                  : 
 repository               : "Jangsukwoo/Jangsukwoo.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
